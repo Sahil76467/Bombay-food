@@ -1,0 +1,98 @@
+#color{
+color: black;
+    background-color: #2bffc0;
+    border: 1PX solid #2FFC0;
+    font-size: 50px;
+    padding:45px ;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    bottom: 33px;
+    left: px;
+    
+}
+.food{
+    position: relative;
+    right: 130px;
+}
+nav{
+    background-color:#333 ;
+    padding: 15px;
+    width: 100%;
+    position: relative;
+    
+    bottom:60px ;
+   
+}
+a{
+color: whitesmoke;
+    padding: 5px;
+    
+   text-decoration: none;
+   
+    
+}
+a::hove{
+    color:#a6f587 ;
+    cursor: pointer;
+    border: 1PX solid #ffbd40;
+}
+.burger,.pIMG2,.pimg3,.pimg4,.pIMG5,.pIMG6,.PIMG 7,.pIMG8,.pIMG9,.pIMG10{
+    margin: 10px;
+    padding: 0px;
+    background: #ede0df;
+    position: relative;
+    right:  5px;
+    top: 5px;
+}
+.img ,.IMG2,.img3,.IMG4,.IMG5,.IMG6,.IMG7,.IMG8,.IMG9,.IMG10{
+   background:#302c2c ;
+   width:344px;
+    border: 1px solid white;
+    margin: 10px;
+    position: relative;
+    right: 10px;
+    
+    }
+  
+ h3{
+    color: white;
+    text-align: center;
+    margin: none;
+}
+
+button{
+    
+    background:#4daea1;
+    text-decoration: none;
+    border: none;
+    padding: 15px;
+    width: 250px;
+    position: relative;
+    left: 45px;
+    bottom: 8px;
+    font-size: 20px;
+    
+}
+h1{
+    color: black;
+    position: relative;
+    top: 15px;
+    text-decoration: underline;
+}
+.background{
+    color:lightgrey;
+    position:relative ;
+    bottom: 90PX;
+    
+}
+h2{
+    position: relative;
+    left:133px;
+}
+;
+}
+.mburger,.mPizza,.mrice{
+    display: flex;
+    flex-wrap: wrap;
+}
